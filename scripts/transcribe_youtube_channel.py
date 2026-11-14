@@ -195,7 +195,7 @@ def fallback_client_spec(client: str) -> tuple[str, bool]:
     if name == "web_safari":
         return "web_safari,web_embedded,-tv_downgraded", True
     if name == "android":
-        return "android;formats=missing_pot", False
+        return "android;formats=missing_pot", True
     return name, True
 
 

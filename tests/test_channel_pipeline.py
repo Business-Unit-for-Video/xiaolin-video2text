@@ -15,6 +15,10 @@ pipeline = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(pipeline)
 
 
+def test_android_fallback_keeps_cookies_for_bot_checks():
+    assert pipeline.fallback_client_spec('android') == ('android;formats=missing_pot', True)
+
+
 def test_public_listing_excludes_private_members_unlisted_and_live(monkeypatch):
     entries = [
         {"id": "public_0001", "title": "普通视频", "availability": "public"},
