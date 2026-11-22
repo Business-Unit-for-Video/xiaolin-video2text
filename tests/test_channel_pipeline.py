@@ -19,6 +19,12 @@ def test_android_fallback_keeps_cookies_for_bot_checks():
     assert pipeline.fallback_client_spec('android') == ('android;formats=missing_pot', True)
 
 
+def test_workflow_targets_configured_xiaolin_channel():
+    config = json.loads((ROOT / "channel.json").read_text(encoding="utf-8"))
+    workflow = (ROOT / ".github/workflows/transcribe_youtube_channel.yml").read_text(encoding="utf-8")
+    assert f'YOUTUBE_CHANNEL_URL: "{config["channel_url"]}"' in workflow
+
+
 def test_public_listing_excludes_private_members_unlisted_and_live(monkeypatch):
     entries = [
         {"id": "public_0001", "title": "普通视频", "availability": "public"},

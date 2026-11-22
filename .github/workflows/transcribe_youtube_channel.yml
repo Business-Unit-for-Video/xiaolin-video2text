@@ -32,7 +32,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 350
     env:
-      YOUTUBE_CHANNEL_URL: "https://www.youtube.com/@xiaolin"
+      YOUTUBE_CHANNEL_URL: "https://www.youtube.com/@xiao_lin_shuo"
       DESTINATION: "xiaolin"
       YOUTUBE_INCLUDE_MEMBERS: "false"
       YOUTUBE_COOKIES_FILE: youtube_cookies.txt
