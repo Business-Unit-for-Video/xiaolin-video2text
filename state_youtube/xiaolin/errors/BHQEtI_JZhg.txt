@@ -1,0 +1,6 @@
+video_id: BHQEtI_JZhg
+title: GTA背后的千亿豪赌
+url: https://www.youtube.com/watch?v=BHQEtI_JZhg
+tab: videos
+time: 2026-11-22 07:28:56
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/xiaolin/BHQEtI_JZhg.%(ext)s', 'https://www.youtube.com/watch?v=BHQEtI_JZhg'])

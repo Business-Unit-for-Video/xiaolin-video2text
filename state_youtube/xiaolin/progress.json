@@ -1,0 +1,15 @@
+{
+  "status": "finished_with_errors",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/xiaolin/BHQEtI_JZhg.%(ext)s', 'https://www.youtube.com/watch?v=BHQEtI_JZhg'])",
+  "destination": "xiaolin",
+  "channel_url": "https://www.youtube.com/@xiao_lin_shuo",
+  "include_members": false,
+  "queue_total": 166,
+  "queue_index": 1,
+  "updated_at": 1795332536,
+  "updated_at_readable": "2026-11-22 07:28:56",
+  "current_video_id": "BHQEtI_JZhg",
+  "current_title": "GTA背后的千亿豪赌",
+  "current_url": "https://www.youtube.com/watch?v=BHQEtI_JZhg",
+  "current_tab": "videos"
+}
