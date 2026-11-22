@@ -1,0 +1,6 @@
+video_id: wu0zS1AuI_E
+title: 史上最大现金收购案 富二代如何正确拼爹
+url: https://www.youtube.com/watch?v=wu0zS1AuI_E
+tab: videos
+time: 2026-11-22 16:38:51
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/xiaolin/wu0zS1AuI_E.%(ext)s', 'https://www.youtube.com/watch?v=wu0zS1AuI_E'])

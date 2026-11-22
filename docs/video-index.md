@@ -2,14 +2,14 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiao_lin_shuo)。
 
-共 166 条：已转写 0，待转写 165，失败待处理 1，文件不完整 0。
+共 166 条：已转写 0，待转写 164，失败待处理 2，文件不完整 0。
 
 标题和播放列表分类取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
 | 视频 | 播放列表分类 | 时长 | 状态 | 纯文本 | 时间戳文本 |
 |---|---|---:|---|---|---|
 | [GTA背后的千亿豪赌](https://www.youtube.com/watch?v=BHQEtI_JZhg) | 未分类 | 12:45 | 失败待处理 | — | — |
-| [史上最大现金收购案 富二代如何正确拼爹](https://www.youtube.com/watch?v=wu0zS1AuI_E) | 未分类 | 13:54 | 待转写 | — | — |
+| [史上最大现金收购案 富二代如何正确拼爹](https://www.youtube.com/watch?v=wu0zS1AuI_E) | 未分类 | 13:54 | 失败待处理 | — | — |
 | [【硬核】俄乌打了四年多，到底谁在买单？](https://www.youtube.com/watch?v=R1-j8TFlqCo) | 未分类 | 29:57 | 待转写 | — | — |
 | [特朗普关税被判违法，这一整年白忙了? 现在关税什么情况?](https://www.youtube.com/watch?v=T7z71yENz94) | 未分类 | 10:32 | 待转写 | — | — |
 | [日元创40年新低，美国突然出手，怎么回事儿？](https://www.youtube.com/watch?v=8BN8p5xDkzw) | 未分类 | 15:43 | 待转写 | — | — |
