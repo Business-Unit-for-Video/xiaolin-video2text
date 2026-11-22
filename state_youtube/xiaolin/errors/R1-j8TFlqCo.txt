@@ -1,0 +1,6 @@
+video_id: R1-j8TFlqCo
+title: 【硬核】俄乌打了四年多，到底谁在买单？
+url: https://www.youtube.com/watch?v=R1-j8TFlqCo
+tab: videos
+time: 2026-11-22 22:06:04
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/xiaolin/R1-j8TFlqCo.%(ext)s', 'https://www.youtube.com/watch?v=R1-j8TFlqCo'])
