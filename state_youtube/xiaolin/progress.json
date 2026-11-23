@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/xiaolin/R1-j8TFlqCo.%(ext)s', 'https://www.youtube.com/watch?v=R1-j8TFlqCo'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/xiaolin/T7z71yENz94.%(ext)s', 'https://www.youtube.com/watch?v=T7z71yENz94'])",
   "destination": "xiaolin",
   "channel_url": "https://www.youtube.com/@xiao_lin_shuo",
   "include_members": false,
   "queue_total": 166,
-  "queue_index": 3,
-  "updated_at": 1795385164,
-  "updated_at_readable": "2026-11-22 22:06:04",
-  "current_video_id": "R1-j8TFlqCo",
-  "current_title": "【硬核】俄乌打了四年多，到底谁在买单？",
-  "current_url": "https://www.youtube.com/watch?v=R1-j8TFlqCo",
+  "queue_index": 4,
+  "updated_at": 1795421805,
+  "updated_at_readable": "2026-11-23 08:16:45",
+  "current_video_id": "T7z71yENz94",
+  "current_title": "特朗普关税被判违法，这一整年白忙了? 现在关税什么情况?",
+  "current_url": "https://www.youtube.com/watch?v=T7z71yENz94",
   "current_tab": "videos"
 }

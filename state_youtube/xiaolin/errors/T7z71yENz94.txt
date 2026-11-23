@@ -1,0 +1,6 @@
+video_id: T7z71yENz94
+title: 特朗普关税被判违法，这一整年白忙了? 现在关税什么情况?
+url: https://www.youtube.com/watch?v=T7z71yENz94
+tab: videos
+time: 2026-11-23 08:16:45
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/xiaolin/T7z71yENz94.%(ext)s', 'https://www.youtube.com/watch?v=T7z71yENz94'])
