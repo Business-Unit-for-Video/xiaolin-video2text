@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/xiaolin/T7z71yENz94.%(ext)s', 'https://www.youtube.com/watch?v=T7z71yENz94'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/xiaolin/8BN8p5xDkzw.%(ext)s', 'https://www.youtube.com/watch?v=8BN8p5xDkzw'])",
   "destination": "xiaolin",
   "channel_url": "https://www.youtube.com/@xiao_lin_shuo",
   "include_members": false,
   "queue_total": 166,
-  "queue_index": 4,
-  "updated_at": 1795421805,
-  "updated_at_readable": "2026-11-23 08:16:45",
-  "current_video_id": "T7z71yENz94",
-  "current_title": "特朗普关税被判违法，这一整年白忙了? 现在关税什么情况?",
-  "current_url": "https://www.youtube.com/watch?v=T7z71yENz94",
+  "queue_index": 5,
+  "updated_at": 1795466126,
+  "updated_at_readable": "2026-11-23 20:35:26",
+  "current_video_id": "8BN8p5xDkzw",
+  "current_title": "日元创40年新低，美国突然出手，怎么回事儿？",
+  "current_url": "https://www.youtube.com/watch?v=8BN8p5xDkzw",
   "current_tab": "videos"
 }
