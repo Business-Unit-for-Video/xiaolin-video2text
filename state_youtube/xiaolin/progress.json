@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/xiaolin/8BN8p5xDkzw.%(ext)s', 'https://www.youtube.com/watch?v=8BN8p5xDkzw'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/xiaolin/l38ceFOWOAE.%(ext)s', 'https://www.youtube.com/watch?v=l38ceFOWOAE'])",
   "destination": "xiaolin",
   "channel_url": "https://www.youtube.com/@xiao_lin_shuo",
   "include_members": false,
   "queue_total": 166,
-  "queue_index": 5,
-  "updated_at": 1795466126,
-  "updated_at_readable": "2026-11-23 20:35:26",
-  "current_video_id": "8BN8p5xDkzw",
-  "current_title": "日元创40年新低，美国突然出手，怎么回事儿？",
-  "current_url": "https://www.youtube.com/watch?v=8BN8p5xDkzw",
+  "queue_index": 6,
+  "updated_at": 1795516002,
+  "updated_at_readable": "2026-11-24 10:26:42",
+  "current_video_id": "l38ceFOWOAE",
+  "current_title": "How is Wang Jianlin doing now? What's going on with Wanda?",
+  "current_url": "https://www.youtube.com/watch?v=l38ceFOWOAE",
   "current_tab": "videos"
 }

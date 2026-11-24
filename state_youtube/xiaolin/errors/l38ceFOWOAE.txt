@@ -1,0 +1,6 @@
+video_id: l38ceFOWOAE
+title: How is Wang Jianlin doing now? What's going on with Wanda?
+url: https://www.youtube.com/watch?v=l38ceFOWOAE
+tab: videos
+time: 2026-11-24 10:26:42
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/xiaolin/l38ceFOWOAE.%(ext)s', 'https://www.youtube.com/watch?v=l38ceFOWOAE'])
