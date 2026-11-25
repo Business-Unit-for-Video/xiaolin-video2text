@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiao_lin_shuo)。
 
-共 166 条：已转写 0，待转写 159，失败待处理 7，文件不完整 0。
+共 166 条：已转写 0，待转写 158，失败待处理 8，文件不完整 0。
 
 标题和播放列表分类取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -15,7 +15,7 @@
 | [日元创40年新低，美国突然出手，怎么回事儿？](https://www.youtube.com/watch?v=8BN8p5xDkzw) | 未分类 | 15:43 | 失败待处理 | — | — |
 | [How is Wang Jianlin doing now? What's going on with Wanda?](https://www.youtube.com/watch?v=l38ceFOWOAE) | 未分类 | 22:39 | 失败待处理 | — | — |
 | [特朗普收入曝光，一年狂揽$22亿，竟然是靠…](https://www.youtube.com/watch?v=fKoWrF49Qo8) | 未分类 | 20:54 | 失败待处理 | — | — |
-| [AI巨头们之间的资本混战，到底是个什么情况？](https://www.youtube.com/watch?v=OcKl98ZQbMQ) | 未分类 | 19:29 | 待转写 | — | — |
+| [AI巨头们之间的资本混战，到底是个什么情况？](https://www.youtube.com/watch?v=OcKl98ZQbMQ) | 未分类 | 19:29 | 失败待处理 | — | — |
 | [What kind of capital games are being played behind SpaceX's IPO?](https://www.youtube.com/watch?v=wpb-DrbhEiY) | 未分类 | 22:08 | 待转写 | — | — |
 | [From "fitness Barbie" to "female entrepreneur," how good is Pamela at "making money"?](https://www.youtube.com/watch?v=7oF-JqEtWDU) | 未分类 | 29:05 | 待转写 | — | — |
 | [With memory prices skyrocketing, who's crying? Who's laughing?](https://www.youtube.com/watch?v=mcTAHffEkIw) | 未分类 | 20:12 | 待转写 | — | — |
