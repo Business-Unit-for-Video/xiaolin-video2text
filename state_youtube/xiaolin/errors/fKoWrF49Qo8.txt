@@ -1,0 +1,6 @@
+video_id: fKoWrF49Qo8
+title: 特朗普收入曝光，一年狂揽$22亿，竟然是靠…
+url: https://www.youtube.com/watch?v=fKoWrF49Qo8
+tab: videos
+time: 2026-11-25 01:06:41
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/xiaolin/fKoWrF49Qo8.%(ext)s', 'https://www.youtube.com/watch?v=fKoWrF49Qo8'])
