@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/xiaolin/OcKl98ZQbMQ.%(ext)s', 'https://www.youtube.com/watch?v=OcKl98ZQbMQ'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/xiaolin/wpb-DrbhEiY.%(ext)s', 'https://www.youtube.com/watch?v=wpb-DrbhEiY'])",
   "destination": "xiaolin",
   "channel_url": "https://www.youtube.com/@xiao_lin_shuo",
   "include_members": false,
   "queue_total": 166,
-  "queue_index": 8,
-  "updated_at": 1795632667,
-  "updated_at_readable": "2026-11-25 18:51:07",
-  "current_video_id": "OcKl98ZQbMQ",
-  "current_title": "AI巨头们之间的资本混战，到底是个什么情况？",
-  "current_url": "https://www.youtube.com/watch?v=OcKl98ZQbMQ",
+  "queue_index": 9,
+  "updated_at": 1795683355,
+  "updated_at_readable": "2026-11-26 08:55:55",
+  "current_video_id": "wpb-DrbhEiY",
+  "current_title": "What kind of capital games are being played behind SpaceX's IPO?",
+  "current_url": "https://www.youtube.com/watch?v=wpb-DrbhEiY",
   "current_tab": "videos"
 }
