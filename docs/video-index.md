@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiao_lin_shuo)。
 
-共 166 条：已转写 0，待转写 156，失败待处理 10，文件不完整 0。
+共 166 条：已转写 0，待转写 155，失败待处理 11，文件不完整 0。
 
 标题和播放列表分类取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -18,7 +18,7 @@
 | [AI巨头们之间的资本混战，到底是个什么情况？](https://www.youtube.com/watch?v=OcKl98ZQbMQ) | 未分类 | 19:29 | 失败待处理 | — | — |
 | [What kind of capital games are being played behind SpaceX's IPO?](https://www.youtube.com/watch?v=wpb-DrbhEiY) | 未分类 | 22:08 | 失败待处理 | — | — |
 | [From "fitness Barbie" to "female entrepreneur," how good is Pamela at "making money"?](https://www.youtube.com/watch?v=7oF-JqEtWDU) | 未分类 | 29:05 | 失败待处理 | — | — |
-| [With memory prices skyrocketing, who's crying? Who's laughing?](https://www.youtube.com/watch?v=mcTAHffEkIw) | 未分类 | 20:12 | 待转写 | — | — |
+| [With memory prices skyrocketing, who's crying? Who's laughing?](https://www.youtube.com/watch?v=mcTAHffEkIw) | 未分类 | 20:12 | 失败待处理 | — | — |
 | [资本是如何接连引爆多个国家的金融危机的？](https://www.youtube.com/watch?v=7qWH7e_AEDs) | 未分类 | 28:48 | 待转写 | — | — |
 | [Does going public mean you have to bow down to Wall Street?](https://www.youtube.com/watch?v=TxWErg5JBpk) | 未分类 | 45:51 | 待转写 | — | — |
 | [The Iran war and the global energy landscape](https://www.youtube.com/watch?v=HeVuAKDtWX8) | 未分类 | 20:56 | 待转写 | — | — |

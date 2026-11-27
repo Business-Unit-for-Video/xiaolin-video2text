@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/xiaolin/7oF-JqEtWDU.%(ext)s', 'https://www.youtube.com/watch?v=7oF-JqEtWDU'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/xiaolin/mcTAHffEkIw.%(ext)s', 'https://www.youtube.com/watch?v=mcTAHffEkIw'])",
   "destination": "xiaolin",
   "channel_url": "https://www.youtube.com/@xiao_lin_shuo",
   "include_members": false,
   "queue_total": 166,
-  "queue_index": 10,
-  "updated_at": 1795740605,
-  "updated_at_readable": "2026-11-27 00:50:05",
-  "current_video_id": "7oF-JqEtWDU",
-  "current_title": "From \"fitness Barbie\" to \"female entrepreneur,\" how good is Pamela at \"making money\"?",
-  "current_url": "https://www.youtube.com/watch?v=7oF-JqEtWDU",
+  "queue_index": 11,
+  "updated_at": 1795804125,
+  "updated_at_readable": "2026-11-27 18:28:45",
+  "current_video_id": "mcTAHffEkIw",
+  "current_title": "With memory prices skyrocketing, who's crying? Who's laughing?",
+  "current_url": "https://www.youtube.com/watch?v=mcTAHffEkIw",
   "current_tab": "videos"
 }

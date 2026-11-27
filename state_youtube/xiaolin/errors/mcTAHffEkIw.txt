@@ -1,0 +1,6 @@
+video_id: mcTAHffEkIw
+title: With memory prices skyrocketing, who's crying? Who's laughing?
+url: https://www.youtube.com/watch?v=mcTAHffEkIw
+tab: videos
+time: 2026-11-27 18:28:45
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/xiaolin/mcTAHffEkIw.%(ext)s', 'https://www.youtube.com/watch?v=mcTAHffEkIw'])
