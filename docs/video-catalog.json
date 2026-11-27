@@ -3,11 +3,11 @@
   "channel_url": "https://www.youtube.com/@xiao_lin_shuo",
   "repository": "Business-Unit-for-Video/xiaolin-video2text",
   "destination": "xiaolin",
-  "generated_at": "2026-11-26 08:55:47",
+  "generated_at": "2026-11-27 00:49:59",
   "counts": {
     "completed": 0,
-    "pending": 157,
-    "failed": 9,
+    "pending": 156,
+    "failed": 10,
     "partial": 0
   },
   "items": [
@@ -147,7 +147,7 @@
       "playlist_title": null,
       "playlist_index": null,
       "availability": null,
-      "transcript_status": "pending",
+      "transcript_status": "failed",
       "plain_url": null,
       "timestamps_url": null
     },
