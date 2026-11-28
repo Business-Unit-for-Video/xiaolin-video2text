@@ -1,15 +1,15 @@
 {
   "status": "finished_with_errors",
-  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/xiaolin/7qWH7e_AEDs.%(ext)s', 'https://www.youtube.com/watch?v=7qWH7e_AEDs'])",
+  "note": "CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/xiaolin/TxWErg5JBpk.%(ext)s', 'https://www.youtube.com/watch?v=TxWErg5JBpk'])",
   "destination": "xiaolin",
   "channel_url": "https://www.youtube.com/@xiao_lin_shuo",
   "include_members": false,
   "queue_total": 166,
-  "queue_index": 12,
-  "updated_at": 1795854508,
-  "updated_at_readable": "2026-11-28 08:28:28",
-  "current_video_id": "7qWH7e_AEDs",
-  "current_title": "资本是如何接连引爆多个国家的金融危机的？",
-  "current_url": "https://www.youtube.com/watch?v=7qWH7e_AEDs",
+  "queue_index": 13,
+  "updated_at": 1795885997,
+  "updated_at_readable": "2026-11-28 17:13:17",
+  "current_video_id": "TxWErg5JBpk",
+  "current_title": "Does going public mean you have to bow down to Wall Street?",
+  "current_url": "https://www.youtube.com/watch?v=TxWErg5JBpk",
   "current_tab": "videos"
 }

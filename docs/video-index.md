@@ -2,7 +2,7 @@
 
 来源：[YouTube 频道](https://www.youtube.com/@xiao_lin_shuo)。
 
-共 166 条：已转写 0，待转写 154，失败待处理 12，文件不完整 0。
+共 166 条：已转写 0，待转写 153，失败待处理 13，文件不完整 0。
 
 标题和播放列表分类取自 YouTube 视频清单；只有实际生成的文本才显示文档链接。
 
@@ -20,7 +20,7 @@
 | [From "fitness Barbie" to "female entrepreneur," how good is Pamela at "making money"?](https://www.youtube.com/watch?v=7oF-JqEtWDU) | 未分类 | 29:05 | 失败待处理 | — | — |
 | [With memory prices skyrocketing, who's crying? Who's laughing?](https://www.youtube.com/watch?v=mcTAHffEkIw) | 未分类 | 20:12 | 失败待处理 | — | — |
 | [资本是如何接连引爆多个国家的金融危机的？](https://www.youtube.com/watch?v=7qWH7e_AEDs) | 未分类 | 28:48 | 失败待处理 | — | — |
-| [Does going public mean you have to bow down to Wall Street?](https://www.youtube.com/watch?v=TxWErg5JBpk) | 未分类 | 45:51 | 待转写 | — | — |
+| [Does going public mean you have to bow down to Wall Street?](https://www.youtube.com/watch?v=TxWErg5JBpk) | 未分类 | 45:51 | 失败待处理 | — | — |
 | [The Iran war and the global energy landscape](https://www.youtube.com/watch?v=HeVuAKDtWX8) | 未分类 | 20:56 | 待转写 | — | — |
 | [Having worked in social media for six years, I want to say…](https://www.youtube.com/watch?v=Lb60mjM5B1U) | 未分类 | 15:26 | 待转写 | — | — |
 | [Who is behind the massive collapse in gold and silver prices?](https://www.youtube.com/watch?v=mU_jDXfjYTA) | 未分类 | 18:50 | 待转写 | — | — |
