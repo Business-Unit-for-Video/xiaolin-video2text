@@ -1,0 +1,6 @@
+video_id: 7qWH7e_AEDs
+title: 资本是如何接连引爆多个国家的金融危机的？
+url: https://www.youtube.com/watch?v=7qWH7e_AEDs
+tab: videos
+time: 2026-11-28 08:28:28
+error: CalledProcessError(1, ['yt-dlp', '--remote-components', 'ejs:github', '--extractor-args', 'youtube:player_client=android;formats=missing_pot', '--no-playlist', '--match-filter', 'availability = public & !is_live & !is_upcoming', '--socket-timeout', '30', '--retries', '2', '--fragment-retries', '2', '-f', 'ba/bestaudio/best', '-x', '--audio-format', 'mp3', '--audio-quality', '7', '-o', 'tmp_audio/xiaolin/7qWH7e_AEDs.%(ext)s', 'https://www.youtube.com/watch?v=7qWH7e_AEDs'])
